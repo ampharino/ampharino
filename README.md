@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there! 👋 I'm **Ampharin** or **Amp** for short
+---
+I'm currently working as a Software Engineer at CREA
+
+![Amp's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ampharino)
 
 <!--
 **ampharino/ampharino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
